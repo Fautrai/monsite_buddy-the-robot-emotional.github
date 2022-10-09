@@ -1,0 +1,15 @@
+body{
+background-color: aqua;
+}
+
+.buddy{
+width: 1520px;
+height: 400px;
+}
+.img-logo{
+padding:20px;
+display: flex;
+width: 100px;
+flex-wrap:wrap;
+}
+
